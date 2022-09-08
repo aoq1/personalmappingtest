@@ -22,7 +22,7 @@ source-code: https://github.com/aoq1/personalmappingtest
 # title of site appears in banner
 title: Personal Mapping Test
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Maps created by students in Introduction to Daata Storytelling in Spring 2021.
+tagline: Maps created by students in Introduction to Data Storytelling in Spring 2021.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This collection includes images of maps created by students in my Zoom class."
